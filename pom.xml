@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>GsonSample</name>
   <description>Actividad 1 DAD</description>
-	<exec.mainClass>principal.Principal</exec.mainClass>
+	<exec.mainClass>java.Principal</exec.mainClass>
   <dependencies>
 
 		<dependency>
